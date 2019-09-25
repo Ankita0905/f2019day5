@@ -116,5 +116,14 @@ public class CollectionFrameworkExample
         }
         System.out.println(hm);
 
+
+
+        int n=3;
+        int ans;
+
+            ans = ((2 ^ n) * n) + 1;
+            System.out.println(ans);
+
+
     }
 }
