@@ -121,7 +121,7 @@ public class CollectionFrameworkExample
         int n=3;
         int ans;
 
-            ans = ((2 ^ n) * n) + 1;
+            ans = ((1 << n) * n) + 1;
             System.out.println(ans);
 
 
